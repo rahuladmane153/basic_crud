@@ -4,7 +4,7 @@ const connection = require("../helper/database");
 const log = require("../helper/logger");
 const ERRORS = require("../helper/errorMessage");
 
-const User = mongoose.model("User");
+const User = mongoose.model("Users");
 const bcrypt = require("bcrypt");
 const saltRounds = 10;
 

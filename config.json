@@ -1,0 +1,13 @@
+{
+    "server": {
+        "port": 8080
+    },
+    "dbUrl": "mongodb://localhost:27017/orbit-mart",
+    "secretKey": "orbitmartclientproject",
+    "staticFilesUrl": "",
+    "uploadUrl": "public/uploads/",
+    "smsKey": "",
+    "NODE_ENVIR": "DEV",
+    "emailVerifyURL": "http://3.128.207.146:3322/authentication/verify/email/",
+    "appURL": "http://3.6.80.178:3313/"
+}
